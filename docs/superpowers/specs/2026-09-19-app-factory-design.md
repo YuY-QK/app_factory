@@ -37,6 +37,7 @@ app_factory/
 │   └── prompts/
 │       └── wizard.ts           # 交互式向导 (@clack/prompts)
 ├── factory.config.yaml         # 全局模板注册表
+├── README.md                   # 脚手架使用与架构说明
 ├── package.json
 └── tsconfig.json
 ```
