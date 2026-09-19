@@ -1,0 +1,8 @@
+version: "1.0.0"
+templates:
+  flutter:
+    name: "Flutter Standard Shell"
+    description: "基于 Material 3 + Riverpod + packages/app_foundation 的 Flutter 标准底座"
+    type: "flutter"
+    source: "../app_flutter_common"
+    branch: "main"
